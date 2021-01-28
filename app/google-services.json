@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "582876877844",
+    "project_id": "connectplus-beb3c",
+    "storage_bucket": "connectplus-beb3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582876877844:android:ffb8a85342d5b6513e4301",
+        "android_client_info": {
+          "package_name": "com.kt.connectplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582876877844-7sg5g3sa2s73sst5pu1pbbg1jbki9lj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kt.connectplus",
+            "certificate_hash": "ccac9d454b510aedab675170d7432c3f342b1e32"
+          }
+        },
+        {
+          "client_id": "582876877844-q2k4eklqk5l1egvuomgsd8ggspfj36h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIV-5c_a4GwBDzThmJqwyBvxcIGBhytjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582876877844-q2k4eklqk5l1egvuomgsd8ggspfj36h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

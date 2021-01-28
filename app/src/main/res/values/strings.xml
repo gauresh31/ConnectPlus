@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ConnectPlus</string>
+    <string name="facebook_app_id">421620112228161</string>
+    <string name="fb_login_protocol_scheme">fb421620112228161</string>
+    <string name="str_male">Male</string>
+    <string name="str_female">Female</string>
+    <string name="user_full_name">full_name</string>
+    <string name="user_dob">dob</string>
+    <string name="user_country">country</string>
+    <string name="user_gender">gender</string>
+    <string name="user_mobile">mobile_no</string>
+    <string name="fb_id">facebook_id</string>
+    <string name="fb_first_name">facebook_first_name</string>
+    <string name="fb_middle_name">facebook_middle_name</string>
+    <string name="fb_last_name">facebook_last_name</string>
+    <string name="fb_name">facebook_name</string>
+    <string name="fb_picture">facebook_picture</string>
+    <string name="fb_email">facebook_email</string>
+    <string name="fb_access_token">facebook_access_token</string>
+    <string name="fb_intent">fb_intent</string>
+    <string name="fb_data">fb_data</string>
+    <string name="profile_data">profileData</string>
+
+    <string-array name="labels">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+</resources>
